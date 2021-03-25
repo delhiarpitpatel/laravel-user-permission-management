@@ -1,0 +1,4 @@
+system/vendor/
+system/storage/framework/cache/data/
+system/storage/framework/sessions/
+system/storage/framework/views/
